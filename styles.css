@@ -9,5 +9,10 @@ h1{
 }
 
 .shuffle{
-    margin-left: 48.2%;
+    margin-left: 43.6%;
+}
+
+.shufflebutton{
+    width: 298px;
+    height: 40px;
 }
